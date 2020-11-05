@@ -1,10 +1,10 @@
 # cookiecutter-django-heroku
-## Cookiecutter script from [pydanny](https://github.com/pydanny/cookiecutter-django) to setup Django with PostgresQL for Heroku deployment.  
+Cookiecutter script from [pydanny](https://github.com/pydanny/cookiecutter-django) to setup Django with PostgresQL for Heroku deployment.  
 ---
   
 Cookiecutter Django Heroku is a CLI based on [Cookiecutter](https://github.com/cookiecutter/cookiecutter) is an easy way to get projects into production using templates.  
   
-##Features  
+## Features  
 ---
 
 - For Django 3.0
