@@ -27,10 +27,10 @@ Cookiecutter script from [pydanny](https://github.com/pydanny/cookiecutter-djang
 ## Optional Integrations
 *These features can be enabled during initial project setup.*
 
-Serve static files from Amazon S3, Google Cloud Storage or [Whitenoise](https://whitenoise.readthedocs.io/)
-Configuration for [Celery](http://www.celeryproject.org/) and [Flower](https://github.com/mher/flower) (the latter in Docker setup only)
-Integration with [MailHog](https://github.com/mailhog/MailHog) for local email testing
-Integration with [Sentry](https://sentry.io/welcome/) for error logging
+- Serve static files from Amazon S3, Google Cloud Storage or [Whitenoise](https://whitenoise.readthedocs.io/)  
+- Configuration for [Celery](http://www.celeryproject.org/) and [Flower](https://github.com/mher/flower) (the latter in Docker setup only)  
+- Integration with [MailHog](https://github.com/mailhog/MailHog) for local email testing  
+- Integration with [Sentry](https://sentry.io/welcome/) for error logging  
 
 ## Constraints
 - Only maintained 3rd party libraries are used.
